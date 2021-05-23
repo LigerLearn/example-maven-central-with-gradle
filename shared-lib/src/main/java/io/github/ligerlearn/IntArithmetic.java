@@ -1,5 +1,4 @@
-package com.ligerlearn.example;
-
+package io.github.ligerlearn;
 
 public class IntArithmetic {
 
