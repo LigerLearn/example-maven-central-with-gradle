@@ -1,7 +1,7 @@
 rootProject.name = 'maven-central-publishing-demo'
 
 // The shared library we want published on maven central.
-include 'shared-lib'
+include 'simple-int-arithmetic-lib'
 
 // An app which consumes the shared library which we publish on maven central.
 include 'consumer-app'
